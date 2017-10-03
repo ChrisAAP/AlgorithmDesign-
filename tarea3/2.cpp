@@ -13,7 +13,8 @@ int main()
     float L = 20, b = 1, length = 0, linelength = 0, extra, expanding, reducing;
     int i = 0, j;
     bool printed = true;
-
+    //The example chose uses a series of words with their respective lengths and 
+    //uses prints out when the algorithms is expanding or reducing as well as giving the cost of such
     p.push_back("Moonlight");
     l.push_back(9);
     p.push_back("drowns");

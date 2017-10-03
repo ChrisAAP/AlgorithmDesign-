@@ -12,6 +12,13 @@ int main()
     int km, numberOfStops, gasRemaining, numberOfStops;
     vector<int> stopsMustTake;
     stopsMustTake.push_back(0);
+    //Example
+    //Using 5 stops at 0km, 5km, 15km, 25km, and 40km
+    //With a km range per tank of 30 km
+    //The answer would be to stop at km 25 for a gas refill
+    //km = 30;
+    //numberOfStops = 5;
+    //stops[] = {0,5,15,25,40};
     cout << "How far can a full gas tank go?\n";
     cin >> km;
     cout << "How many number of stops are there?\n";

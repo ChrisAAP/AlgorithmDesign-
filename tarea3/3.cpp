@@ -11,6 +11,10 @@ int main()
 {
     int x,x1,x2;
     vector<int> sequence1, sequence2;
+    //Example
+    //For the following sequences the longest common subsecuence is 1, 3, 5
+    //vector<int> sequence1{1, 3, 2, 5};
+    //vector<int> sequence2{2, 1, 3, 5};
     
     cout << "Size of the first sequence:\n";
     cin >> x1;
