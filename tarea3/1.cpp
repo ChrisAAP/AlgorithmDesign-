@@ -1,5 +1,5 @@
 //Greedy Algorithm
-//O(n)
+//O(N)
 
 #include <iostream>
 #include <vector>

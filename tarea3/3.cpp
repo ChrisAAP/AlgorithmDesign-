@@ -1,5 +1,5 @@
-//Algorithm
-//O()
+//Dynamic Programming Algorithm
+//O(N*M)
 #include <iostream>
 #include <vector>
 #include <algorithm>

@@ -1,5 +1,5 @@
-//Algorithm
-//O()
+//Greedy Algorithm
+//O(N)
 #include <iostream>
 #include <vector>
 #include <math.h>
@@ -64,7 +64,7 @@ int main()
                 {
                     cout << x << " ";
                 }
-                cout << expanding <<"a";
+                cout << expanding << "a";
                 cout << "\n";
                 j--;
                 printed = true;
