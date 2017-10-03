@@ -18,6 +18,11 @@ int main()
     //The following example uses the following data to show the preferences for men
     //and women
     //The answer should show 
+    //W M
+    //0 0
+    //1 1
+    //2 2
+    //3 3
     int M1[4] = {2,1,0,3}, M2[4] = {1,3,0,2}, M3[4] = {2,0,3,1}, M4[4] = {3,1,2,0};
     
     int W1[4] = {0,2,1,3}, W2[4] = {2,3,1,0}, W3[4] = {1,2,3,0}, W4[4] = {3,1,0,2};
